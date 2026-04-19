@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26871431/README.md)
 # 🍽️ Каталог за Готварски Рецепти
 
-Курсов проект по **Интернет програмиране** — ASP.NET Core 8 MVC уеб приложение.
+Курсов проект по ** програмиране** — ASP.NET Core 8 MVC уеб приложение.
 
 ---
 
